@@ -5,4 +5,5 @@
 Recipe Picks:
 
 - January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
-- Fberuary: [Tiramisu] (../recipe/jan/tiramisu.md)
+- February:[Tiramisu](../recipe/jan/tiramisu.md)
+- 
